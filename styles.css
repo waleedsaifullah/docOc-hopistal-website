@@ -186,3 +186,14 @@ body {
     max-height: 530px;
 }
 
+
+/* ------------------ABOUT US----------------- */
+
+.about-us {
+    margin-top: 5rem;
+}
+
+.about-us .container {
+    display: flex;
+    align-items: center;
+}
